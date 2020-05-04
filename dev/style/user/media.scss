@@ -1,0 +1,12 @@
+@media (min-width: 1280px) {
+    .container {
+        width: 1280px;;
+    }
+}
+@media (max-width: 630px) {
+    .client-card {
+        width: 100%;
+        flex-grow: 1;
+        margin-right: 0;
+    }
+}
